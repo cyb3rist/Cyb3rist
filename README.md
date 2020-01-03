@@ -2,6 +2,7 @@
 
 ```markdown
 Jan 1 2020
+10:10 noon
 -1.1
 ```
 
