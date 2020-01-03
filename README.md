@@ -1,36 +1,31 @@
 <b>FEEDS<b>
   
-      ```markdown
-Siligurify - https://Siligurify.com
+```markdown
+Siligurify - https://Siligurify.com/
 Software Development Agency
 -1.5
 ```
-  
-    ```markdown
+ ```markdown
 Intuitives - http://intuitives.in/
 Software Development Agency
 -1.4
 ```
-  
   ```markdown
 Chatbot: Matchmaker - https://m.me/107937497383671
 Facebook Messenger
 -1.3
 ```
-
 ```markdown
 @Cyb3rist
 Software Developer
 Technocrat
 -1.2
 ```
-
 ```markdown
 Jan 1 2020
 10:10 noon
 -1.1
 ```
-
 ```markdown
 Hello World!
 -1.0
