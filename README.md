@@ -2,7 +2,7 @@
   
 ```markdown
 Siligurify - https://Siligurify.com/
-Software Development Agency
+Intra city shopping platfrom
 -1.5
 ```
  ```markdown
